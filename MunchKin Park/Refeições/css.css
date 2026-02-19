@@ -1,0 +1,142 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size:14px;
+	background-color:#232b6f;
+}
+
+
+#container {
+	width:960px;
+	height:1200px;
+	margin-top:-780px;
+	margin-right:auto;
+	margin-left:auto;
+	background-color:#DCDCDC;
+}
+
+.topo {
+	width:960px;
+	height:300px;
+	background-color:#4fa5a6;
+	position:absolute;
+}
+
+#logo {
+	margin-top:70px;
+	width:40%;
+	height:80%;
+}
+
+#barra {
+	margin-top:0px;
+	margin-left:750px;
+}
+
+#redes {
+	margin-left:790px;
+}
+
+
+#menu ul {
+	
+	padding:5px;
+	margim:0px;
+	margin-top:20px;
+	background-color:#232b6f;
+	list-style:none;
+}
+
+#menu ul li {
+	display:inline;
+}
+
+#menu ul li a{
+	padding:2px 30px;
+	display:inline-block;
+	margin-left:20px;
+	background-color:#FFFFFF;
+	color:#000000;
+	text-decoration:none;
+	border-bottom:#4fa5a6;
+}
+
+#menu ul li a:hover{
+	background-color:#4fa5a6;
+}
+
+
+footer {
+	width:960px;
+	height:40px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#4fa5a6;
+}
+
+h3 {
+	margin-left:720px;
+	color:#FFFFFF;
+	font-size:14px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+#conteudo {
+	background-color:#DCDCDC;
+	margin-top:800px;
+	padding:20px;
+	font-size:15px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color:#ffffff;
+}
+
+.foods {
+	width:800px;
+	height:300px;
+	margin-top:500px;
+	background-color:#4FA5A6;
+	margin-bottom:100px;
+	margin-left:60px;
+	
+}
+
+.Restaurantes {
+	width:800px;
+	background-color:#4FA5A6;
+	height:300px;
+	margin-top:100px;
+	margin-bottom:100px;
+	margin-left:60px;
+}
+
+.Ambulantes {
+	width:800px;
+	background-color:#4FA5A6;
+	height:300px;
+	margin-top:100px;
+	margin-bottom:100px;
+	margin-left:60px;
+}
+
+p { 
+	width:400px;
+	height:300px;
+	float:right;
+	margin-top:-300px;
+}
+
+abbr {
+	width:400px;
+	height:300px;
+	float:right;
+	margin-top:-300px;
+}
+
+bdo {
+	width:400px;
+	height:300px;
+	float:right;
+	margin-top:-300px;
+}

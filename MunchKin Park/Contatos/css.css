@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size:14px;
+	background-color:#232b6f;
+}
+
+
+#container {
+	width:960px;
+	height:1200px;
+	margin-top:-680px;
+	margin-right:auto;
+	margin-left:auto;
+	background-color:#DCDCDC;
+}
+
+.topo {
+	width:960px;
+	height:300px;
+	background-color:#4fa5a6;
+	position:absolute;
+}
+
+#logo {
+	margin-top:70px;
+	width:40%;
+	height:80%;
+}
+
+#barra {
+	margin-top:0px;
+	margin-left:750px;
+}
+
+#redes {
+	margin-left:790px;
+}
+
+#menu ul {
+	
+	padding:5px;
+	margim:0px;
+	margin-top:20px;
+	background-color:#232b6f;
+	list-style:none;
+}
+
+#menu ul li {
+	display:inline;
+}
+
+#menu ul li a{
+	padding:2px 30px;
+	display:inline-block;
+	margin-left:20px;
+	background-color:#FFFFFF;
+	color:#000000;
+	text-decoration:none;
+	border-bottom:#4fa5a6;
+}
+
+#menu ul li a:hover{
+	background-color:#4fa5a6;
+}
+
+
+footer {
+	width:960px;
+	height:40px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:#4fa5a6;
+}
+
+h3 {
+	margin-left:720px;
+	color:#FFFFFF;
+	font-size:14px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+#formulario{
+	width:800px;
+	height:300px;
+	margin-top:700px;
+	padding-top:550px;
+	margin-left:100px;
+	color:#232b6f;
+}
+
+.caixa {
+		width:300px;
+		height:200px;
+		max-width:300px;
+		max-height:200px;
+		border-radius:10px;
+}
+
+.botao {
+	background-color:#06387C;
+	width:50px;
+	height:30px;
+	color:#030202;
+	border:none;
+	border-radius:50px;
+}
+
+.botao:hover {
+	box-shadow:10px 10px 6px #0C514B; 
+}
+
+.dados {
+	background-color:#ffffff;
+	width:300px;
+	height:25px;
+	border:none;
+	border-radius:100px;
+}
+
+h2 {
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color:#232b6f;
+}
+	
